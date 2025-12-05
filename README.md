@@ -73,8 +73,8 @@ Contains queries for:
 ---
 
 ## 📥 Download Project  
-🔗 **Full Project ZIP:** (Already provided in chat)  
-🔗 **README.md:** (This file)
+🔗 **Full Project ZIP:**
+🔗 **README.md:**
 
 ---
 
